@@ -8,6 +8,8 @@ based on:
  - [https://github.com/bitnami/bitnami-docker-etcd]
  - [https://etcd.io/docs/v3.4.0/demo/]
 
+Abaut Raft (the consensus algorithm)
+ - [https://raft.github.io/]
 
 Basic API
 
